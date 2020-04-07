@@ -9,7 +9,7 @@ FULL STACK APPLICATION (MERN)
  
  
 EXTRA FEATURES:
-have made a route for admin to track total number of users registered .Its functionalities can be extended.
+Have created a route for admin to track total number of users registered .Its functionalities can be extended.
 ROUTE - /admindashboard 
 
 RUNNING
