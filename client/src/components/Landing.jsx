@@ -137,7 +137,7 @@ const Landing = ({
           <form onSubmit={onSubmit}>
             <div className="row" style={{ fontSize: "xx-large" }}>
               <div className="col-md-4 container">
-                <div>
+                <div className="text-center">
                   {/* DESIGNER,MAKER,BOTH */}
                   <label
                     style={
