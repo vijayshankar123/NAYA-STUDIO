@@ -1,0 +1,4 @@
+{
+  "MONGOURI":
+    "mongodb+srv://naya:naya123@naya-byyzd.mongodb.net/test?retryWrites=true&w=majority"
+}

@@ -1,0 +1,9 @@
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const CLEAR_ERROR = "CLEAR_ERROR";
+
+export const GET_FILTERED_ERROR = "  GET_FILTERED_ERROR";
+export const GET_FILTERED = "  GET_FILTERED";
+export const TOTAL_COUNT = "TOTAL_COUNT";
